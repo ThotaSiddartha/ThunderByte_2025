@@ -8,9 +8,9 @@ Flood Risk Classifier
        2. Data Augmentation (From 3000 to 50000 records)
        3. Classify Latitude and Longitude into States and Districts
   3. Apply Algorithms
-     Logistic Regression
-     Random Forest
-     XG boost
-     XG Boost + Hyper parameter tuning
+     1. Logistic Regression
+     2. Random Forest
+     3. XG boost
+     4. XG Boost + Hyper parameter tuning
   4. Evalution
      XG+Boost + Hyper paramter tuning performs well in accuracy, precision, recall, F1
